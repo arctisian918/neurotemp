@@ -1,0 +1,15 @@
+{
+  "faction": "Your guild",
+  "contact": "Your contact name",
+  "coordinateSpace": "canvas",
+  "templates": [
+    {
+      "name": "Example artwork",
+      "sources": [
+        "https://example.com/your-template.png"
+      ],
+      "x": 900,
+      "y": 900
+    }
+  ]
+}
