@@ -6,18 +6,19 @@
     {
       "name": "Example artwork",
       "sources": [
-        "https://raw.githubusercontent.com/arctisian918/neurotemp/refs/heads/main/whisptemp.png"
+        "https://raw.githubusercontent.com/arctisian918/neurotemp/main/whisptemp.png"
       ],
       "x": 900,
       "y": 900
     },
     {
       "name": "Blue Team Template",
+      "coordinateSpace": "hq",
       "sources": [
-        "https://raw.githubusercontent.com/arctisian918/neurotemp/refs/heads/main/blueteam.png"
+        "https://raw.githubusercontent.com/arctisian918/neurotemp/main/blueteam.png"
       ],
       "x": 0,
-      "y": 0
+      "y": -1000
     }
   ]
 }
