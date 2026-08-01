@@ -1,12 +1,12 @@
 {
-  "faction": "Your guild",
-  "contact": "Your contact name",
+  "faction": "Blue Team",
+  "contact": "Arctisian",
   "coordinateSpace": "canvas",
   "templates": [
     {
       "name": "Example artwork",
       "sources": [
-        "https://example.com/your-template.png"
+        "https://raw.githubusercontent.com/arctisian918/neurotemp/refs/heads/main/whisptemp.png"
       ],
       "x": 900,
       "y": 900
