@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-08-19-link-test-1",
+  "revision": "test-1",
   "id": "example-guild-animation",
 
   "active": true,
@@ -10,8 +10,6 @@
   "loop": true,
   "holdLastFrame": false,
   "showBeforeStart": true,
-
-  "timeUrl": "https://YOUR-HOST.example/bplace-animation/time",
 
   "template": {
     "name": "[Guild Animation] Example",
@@ -34,17 +32,17 @@
   },
 
   "frames": [
-    { "url": "frames/001.png", "durationMs": 5000 },
-    { "url": "frames/002.png", "durationMs": 5000 },
-    { "url": "frames/003.png", "durationMs": 5000 },
-    { "url": "frames/004.png", "durationMs": 5000 },
-    { "url": "frames/005.png", "durationMs": 5000 },
-    { "url": "frames/006.png", "durationMs": 5000 },
-    { "url": "frames/007.png", "durationMs": 5000 },
-    { "url": "frames/008.png", "durationMs": 5000 },
-    { "url": "frames/009.png", "durationMs": 5000 },
-    { "url": "frames/010.png", "durationMs": 5000 },
-    { "url": "frames/011.png", "durationMs": 5000 },
-    { "url": "frames/012.png", "durationMs": 5000 }
+    { "url": "01.png", "durationMs": 5000 },
+    { "url": "02.png", "durationMs": 5000 },
+    { "url": "03.png", "durationMs": 5000 },
+    { "url": "04.png", "durationMs": 5000 },
+    { "url": "05.png", "durationMs": 5000 },
+    { "url": "06.png", "durationMs": 5000 },
+    { "url": "07.png", "durationMs": 5000 },
+    { "url": "08.png", "durationMs": 5000 },
+    { "url": "09.png", "durationMs": 5000 },
+    { "url": "10.png", "durationMs": 5000 },
+    { "url": "11.png", "durationMs": 5000 },
+    { "url": "12.png", "durationMs": 5000 }
   ]
 }
