@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "revision": "2026-08-19-link-test-1",
+  "id": "example-guild-animation",
+
+  "active": true,
+  "refreshMs": 10000,
+
+  "startTime": "2026-08-20T00:00:00Z",
+  "loop": false,
+  "holdLastFrame": true,
+  "showBeforeStart": false,
+
+  "timeUrl": "https://YOUR-HOST.example/bplace-animation/time",
+
+  "template": {
+    "name": "[Guild Animation] Example",
+    "position": {
+      "x": 1000,
+      "y": 1000
+    },
+    "scale": 1,
+    "rotation": 0,
+    "opacity": 0.7,
+    "visible": true,
+    "displayMode": "image",
+    "renderAbovePixels": true,
+    "canvasType": "world",
+    "showTemplateColorsOnly": true,
+    "highlightSelectedColor": true,
+    "useUnlockedColorsOnly": false,
+    "excludeSpecialColors": false,
+    "pixelAlgorithm": "v2"
+  },
+
+  "frames": [
+    { "url": "frames/001.png", "durationMs": 5000 },
+    { "url": "frames/002.png", "durationMs": 5000 },
+    { "url": "frames/003.png", "durationMs": 5000 }
+  ]
+}
