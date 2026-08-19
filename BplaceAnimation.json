@@ -6,18 +6,18 @@
   "active": true,
   "refreshMs": 10000,
 
-  "startTime": "2026-08-20T00:00:00Z",
-  "loop": false,
-  "holdLastFrame": true,
-  "showBeforeStart": false,
+  "startTime": "2026-08-19T00:00:00Z",
+  "loop": true,
+  "holdLastFrame": false,
+  "showBeforeStart": true,
 
   "timeUrl": "https://YOUR-HOST.example/bplace-animation/time",
 
   "template": {
     "name": "[Guild Animation] Example",
     "position": {
-      "x": 1000,
-      "y": 1000
+      "x": 658504,
+      "y": 425448
     },
     "scale": 1,
     "rotation": 0,
