@@ -36,6 +36,15 @@
   "frames": [
     { "url": "frames/001.png", "durationMs": 5000 },
     { "url": "frames/002.png", "durationMs": 5000 },
-    { "url": "frames/003.png", "durationMs": 5000 }
+    { "url": "frames/003.png", "durationMs": 5000 },
+    { "url": "frames/004.png", "durationMs": 5000 },
+    { "url": "frames/005.png", "durationMs": 5000 },
+    { "url": "frames/006.png", "durationMs": 5000 },
+    { "url": "frames/007.png", "durationMs": 5000 },
+    { "url": "frames/008.png", "durationMs": 5000 },
+    { "url": "frames/009.png", "durationMs": 5000 },
+    { "url": "frames/010.png", "durationMs": 5000 },
+    { "url": "frames/011.png", "durationMs": 5000 },
+    { "url": "frames/012.png", "durationMs": 5000 }
   ]
 }
